@@ -9,8 +9,9 @@ See screenshoot for more detail:
 ![screenshot](Screenshot.png?raw=true) 
 
 It takes 3 parameter:
+
 1. The first parameter is the referenced variable
-2. The second parameter is the word that will be replaced. We can use [Regex.Replace](https://msdn.microsoft.com/en-us/library/system.text.regularexpressions.regex.replace(v=vs.110).aspx). Wheever invalid regex specified, then it will give a value from first parameter instead.
+2. The second parameter is the word that will be replaced. We can use [Regex.Replace](https://msdn.microsoft.com/en-us/library/system.text.regularexpressions.regex.replace(v=vs.110).aspx). Whenever invalid regex specified, then it will give a value from first parameter instead.
 3. The third parameter is replacement word. It also accept regex replacement, just like second parameter. We can also leave it empty for removing purpose.
 
 ## Building
