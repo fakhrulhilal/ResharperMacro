@@ -6,7 +6,7 @@ This plugin will add new macro for creating [file template](https://www.jetbrain
 This macro will generate new value by replacing some word from another variable. 
 See screenshoot for more detail: 
 
-![screenshoot](screenshot.png) 
+![screenshot](Screenshot.png?raw=true) 
 
 It takes 3 parameter:
 1. The first parameter is the referenced variable
