@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Fakhrulhilal.ReplaceFromOtherValue</id>
-        <version>2017.2</version>
+        <version>2017.3</version>
         <title>Macro ReplaceFromOtherValue</title>
         <authors>Fakhrulhilal Maktum</authors>
         <owners>Fakhrulhilal Maktum</owners>
@@ -11,10 +11,10 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Macro for getting value from another with replacing some parts</description>
         <releaseNotes />
-        <copyright>Copyright © 2016 Fakhrulhilal Maktum</copyright>
+        <copyright>Copyright © 2018 Fakhrulhilal Maktum</copyright>
         <tags>macro</tags>
         <dependencies>
-            <dependency id="Wave" version="9.0" />
+            <dependency id="Wave" version="11.0" />
         </dependencies>
     </metadata>
     <files>
