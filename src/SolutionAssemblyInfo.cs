@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyCompany("Fakhrulhilal Maktum")]
 [assembly: AssemblyProduct("ReSharper Macro - ReplaceFromOtherValue")]
-[assembly: AssemblyCopyright("Copyright © 2016")]
+[assembly: AssemblyCopyright("Copyright © 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -25,5 +25,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2017.2")]
-[assembly: AssemblyFileVersion("2017.2")]
+[assembly: AssemblyVersion("2017.3")]
+[assembly: AssemblyFileVersion("2017.3")]
