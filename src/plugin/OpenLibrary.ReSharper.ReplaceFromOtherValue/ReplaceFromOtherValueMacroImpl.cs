@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 using JetBrains.ReSharper.Feature.Services.LiveTemplates.Hotspots;
 using JetBrains.ReSharper.Feature.Services.LiveTemplates.Macros;
 
-namespace Fakhrulhilal.Macro.ReplaceFromOtherValue
+namespace OpenLibrary.ReSharper.ReplaceFromOtherValue
 {
     [MacroImplementation(Definition = typeof(ReplaceFromOtherValueMacroDef))]
     public class ReplaceFromOtherValueMacroImpl : SimpleMacroImplementation

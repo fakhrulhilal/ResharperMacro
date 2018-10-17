@@ -22,7 +22,7 @@
         <!-- NuGet command -->
         <NuGetExePath>$(NuGetToolsPath)\NuGet.exe</NuGetExePath>
 		<BuildDir>$([System.IO.Path]::Combine($(SolutionDir), "..", "build"))</BuildDir>
-		<NuGetSpecPath>$([System.IO.Path]::Combine($(BuildDir), "Fakhrulhilal.ReplaceFromOtherValue.nuspec"))</NuGetSpecPath>
+		<NuGetSpecPath>$([System.IO.Path]::Combine($(BuildDir), "OpenLibrary.ReplaceFromOtherValue.nuspec"))</NuGetSpecPath>
         <NuGetCommand Condition=" '$(OS)' == 'Windows_NT'">"$(NuGetExePath)"</NuGetCommand>
         <NuGetCommand Condition=" '$(OS)' != 'Windows_NT' ">mono --runtime=v4.0.30319 $(NuGetExePath)</NuGetCommand>
 

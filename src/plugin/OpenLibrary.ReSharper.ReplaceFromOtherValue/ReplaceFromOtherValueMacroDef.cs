@@ -1,8 +1,8 @@
 ﻿using JetBrains.ReSharper.Feature.Services.LiveTemplates.Macros;
 
-namespace Fakhrulhilal.Macro.ReplaceFromOtherValue
+namespace OpenLibrary.ReSharper.ReplaceFromOtherValue
 {
-    [MacroDefinition("replaceFromOtherValue", ShortDescription = "Value of {#0: another variable} with replacing certain value", LongDescription = "Evaluate value from another variable with replacing some parts using regex")]
+    [MacroDefinition("replaceFromOtherValue", ShortDescription = Definition.QuickDescription, LongDescription = Definition.CompleteDescription)]
     public class ReplaceFromOtherValueMacroDef : SimpleMacroDefinition
     {
         public override ParameterInfo[] Parameters => new[]

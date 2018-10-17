@@ -1,20 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{D495BD99-B5D0-4215-994A-EAA46D96B5FD}"
 	ProjectSection(SolutionItems) = preProject
-		..\build\Fakhrulhilal.ReplaceFromOtherValue.nuspec = ..\build\Fakhrulhilal.ReplaceFromOtherValue.nuspec
+		..\build\OpenLibrary.ReplaceFromOtherValue.nuspec = ..\build\OpenLibrary.ReplaceFromOtherValue.nuspec
 		..\README.md = ..\README.md
 		SolutionAssemblyInfo.cs = SolutionAssemblyInfo.cs
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{3921FE53-9E54-46A1-869F-74E0197F0A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakhrulhilal.Macro.ReplaceFromOtherValue.Test", "..\test\src\Fakhrulhilal.Macro.ReplaceFromOtherValue.Test\Fakhrulhilal.Macro.ReplaceFromOtherValue.Test.csproj", "{F93003E0-7C87-46DC-866B-021279769B68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLibrary.ReSharper.ReplaceFromOtherValue.Test", "..\test\src\OpenLibrary.ReSharper.ReplaceFromOtherValue.Test\OpenLibrary.ReSharper.ReplaceFromOtherValue.Test.csproj", "{F93003E0-7C87-46DC-866B-021279769B68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fakhrulhilal.Macro.ReplaceFromOtherValue", "plugin\Fakhrulhilal.Macro.ReplaceFromOtherValue\Fakhrulhilal.Macro.ReplaceFromOtherValue.csproj", "{F05F0E68-48F9-4CE0-B116-5FC4242D13EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLibrary.ReSharper.ReplaceFromOtherValue", "plugin\OpenLibrary.ReSharper.ReplaceFromOtherValue\OpenLibrary.ReSharper.ReplaceFromOtherValue.csproj", "{F05F0E68-48F9-4CE0-B116-5FC4242D13EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +36,8 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F93003E0-7C87-46DC-866B-021279769B68} = {3921FE53-9E54-46A1-869F-74E0197F0A78}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA351AE0-DE29-47CB-AA6C-D898639AE0D8}
 	EndGlobalSection
 EndGlobal
