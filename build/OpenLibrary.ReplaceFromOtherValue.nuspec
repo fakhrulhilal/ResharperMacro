@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Fakhrulhilal.ReplaceFromOtherValue</id>
-        <version>0.0.0</version>
+        <version>2019.1.3</version>
         <title>Macro ReplaceFromOtherValue</title>
         <authors>Fakhrulhilal Maktum</authors>
         <owners>Fakhrulhilal Maktum</owners>
@@ -14,7 +14,7 @@
         <copyright>Copyright © 2016 Fakhrulhilal Maktum</copyright>
         <tags>macro</tags>
         <dependencies>
-            <dependency id="Wave" version="0.0" />
+            <dependency id="Wave" version="15.0" />
         </dependencies>
     </metadata>
     <files>
