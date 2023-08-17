@@ -1,0 +1,15 @@
+<idea-plugin require-restart="true">
+  <id>ReSharperMacro.ReplaceFromOtherValue</id>
+  <name>Macro ReplaceFromOtherValue</name>
+  <version>_PLACEHOLDER_</version>
+  <vendor url="https://github.com/fakhrulhilal/ResharperMacro">Fakhrulhilal M</vendor>
+  <idea-version since-build="_PLACEHOLDER_" until-build="_PLACEHOLDER_" />
+  <depends>com.intellij.modules.rider</depends>
+
+  <description>
+<![CDATA[
+<p>Macro for getting value from another with replacing some parts using Regex</p>
+]]>
+  </description>
+
+</idea-plugin>

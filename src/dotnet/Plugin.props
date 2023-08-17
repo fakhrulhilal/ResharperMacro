@@ -1,0 +1,22 @@
+﻿<Project>
+
+  <PropertyGroup>
+    <!-- See https://www.nuget.org/packages/JetBrains.ReSharper.SDK -->
+    <!-- Keep in sync with ProductVersion in gradle.properties -->
+    <SdkVersion>2023.1.0</SdkVersion>
+
+    <Title>Macro ReplaceFromOtherValue</Title>
+    <Description>Macro for getting value from another with replacing some parts using Regex</Description>
+
+    <Authors>Fakhrulhilal M</Authors>
+    <Copyright>Copyright 2016 Fakhrulhilal M</Copyright>
+    <PackageTags>resharper plugin, macro, Live Templates, File Templates</PackageTags>
+
+    <PackageProjectUrl>https://github.com/fakhrulhilal/ResharperMacro</PackageProjectUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Product>ReSharper Macro - ReplaceFromOtherValue</Product>
+  </PropertyGroup>
+</Project>

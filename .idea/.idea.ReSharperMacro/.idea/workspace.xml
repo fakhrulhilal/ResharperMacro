@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="686e2d5e-82e4-4b9f-ad42-6dde9bbcbdc1" name="Changes" comment="feat: migrate to newest template&#10;&#10;This also should make it easy to develop plugin for both Rider and R#">
+      <change beforePath="$PROJECT_DIR$/src/dotnet/ReSharperMacro.ReplaceFromOtherValue/ReSharperMacro.ReplaceFromOtherValue.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/dotnet/ReSharperMacro.ReplaceFromOtherValue/ReSharperMacro.ReplaceFromOtherValue.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/dotnet/OpenLibrary.ReSharper.ReplaceFromOtherValue/Definition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/dotnet/OpenLibrary.ReSharper.ReplaceFromOtherValue/IReplaceFromOtherValueZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/dotnet/OpenLibrary.ReSharper.ReplaceFromOtherValue/ReplaceFromOtherValueMacroDef.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/plugin/OpenLibrary.ReSharper.ReplaceFromOtherValue/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/src/OpenLibrary.ReSharper.ReplaceFromOtherValue.Test/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="SWEA" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2U5qVmr0oRI8EyKvSrVAmBUbtKy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "dev",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/iroel/proyek/ResharperMacro/ReSharperPlugin.ReplaceFromOtherValue.sln",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\iroel\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\iroel\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\iroel\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Native Executable.Rider (Windows)" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="686e2d5e-82e4-4b9f-ad42-6dde9bbcbdc1" name="Changes" comment="" />
+      <created>1692239814872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692239814872</updated>
+      <workItem from="1692239815875" duration="1256000" />
+      <workItem from="1692241146940" duration="5000" />
+      <workItem from="1692241268382" duration="129000" />
+      <workItem from="1692241436718" duration="298000" />
+      <workItem from="1692250909496" duration="662000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: migrate to newest template&#10;&#10;This also should make it easy to develop plugin for both Rider and R#">
+      <option name="closed" value="true" />
+      <created>1692257873363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692257873363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="feat: migrate to newest template&#10;&#10;This also should make it easy to develop plugin for both Rider and R#" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: migrate to newest template&#10;&#10;This also should make it easy to develop plugin for both Rider and R#" />
+  </component>
+</project>

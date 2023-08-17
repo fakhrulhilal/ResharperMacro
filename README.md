@@ -1,5 +1,8 @@
 # ReSharper Macro - ReplaceFromOtherValue
 
+[![Rider](https://img.shields.io/jetbrains/plugin/v/ReSharperMacro.ReplaceFromOtherValue.svg?label=Rider&colorB=0A7BBB&style=for-the-badge&logo=rider)](https://plugins.jetbrains.com/plugin/ReSharperMacro.ReplaceFromOtherValue)
+[![ReSharper](https://img.shields.io/jetbrains/plugin/v/ReSharperMacro.ReplaceFromOtherValue.svg?label=ReSharper&colorB=0A7BBB&style=for-the-badge&logo=resharper)](https://plugins.jetbrains.com/plugin/ReSharperMacro.ReplaceFromOtherValue)
+
 ## Description
 
 This plugin will add new macro for creating [file template](https://www.jetbrains.com/help/resharper/Creating_a_File_Template.html). 
